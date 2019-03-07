@@ -1,0 +1,310 @@
+/* Class = "UILabel"; text = "Goals"; ObjectID = "KEY-je-Ewt"; */
+"KEY-je-Ewt.text" = "目標";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "1zv-T8-Kdw"; */
+"1zv-T8-Kdw.placeholder" = "アカウントを入力...";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "27u-iO-owM"; */
+"27u-iO-owM.text" = "リマインダーの日付";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "2Jc-Rb-cuQ"; */
+"2Jc-Rb-cuQ.text" = "目標名";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "49a-0i-vdr"; */
+"49a-0i-vdr.text" = "貯蓄口座";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "4I6-YG-hbe"; */
+"4I6-YG-hbe.text" = "貯金の頻度";
+
+/* Class = "UILabel"; text = "Includes everything from free version plus :"; ObjectID = "4q1-7P-JYD"; */
+"4q1-7P-JYD.text" = "無料版の全機能および次の特典が含まれます:";
+
+/* Class = "UILabel"; text = "      FEEDBACK"; ObjectID = "58U-cX-6AZ"; */
+"58U-cX-6AZ.text" = "      フィードバック";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "6Uk-xG-rRt"; */
+"6Uk-xG-rRt.text" = "ゴール情報";
+
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "76F-np-LnA"; */
+"76F-np-LnA.text" = "メモ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "7qB-wr-I1l"; */
+"7qB-wr-I1l.normalTitle" ="完了";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7tH-PU-Vo3"; */
+"7tH-PU-Vo3.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "A5A-iz-HjG"; */
+"A5A-iz-HjG.text" = "ゴール情報";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Alu-NB-Yek"; */
+"Alu-NB-Yek.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "ADD GOAL"; ObjectID = "BWJ-B7-T2O"; */
+"BWJ-B7-T2O.normalTitle" =  "目標を追加";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "BbQ-3k-8O9"; */
+"BbQ-3k-8O9.text" = "リマインダー時間";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "CMt-qR-JDf"; */
+"CMt-qR-JDf.text" = "目標金額";
+
+/* Class = "UILabel"; text = "Choose sorting type"; ObjectID = "DD1-JA-aDU"; */
+"DD1-JA-aDU.text" = "並べ替えタイプを選択";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "Ddk-km-yDC"; */
+"Ddk-km-yDC.text" = "金額*";
+
+/* Class = "UILabel"; text = "About Money Box"; ObjectID = "Dhz-5V-ftU"; */
+"Dhz-5V-ftU.text" = "Money Boxについて";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "EZf-2w-ZUS"; */
+"EZf-2w-ZUS.text" =  "リマインダー時間";
+
+/* Class = "UILabel"; text = "Press \"Add Goal\" to start."; ObjectID = "Fjb-3R-7l6"; */
+"Fjb-3R-7l6.text" = "「目標を追加」を押して開始します。";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "GDJ-3t-sEZ"; */
+"GDJ-3t-sEZ.text" = "目標通貨";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "Gzr-SW-zA4"; */
+"Gzr-SW-zA4.placeholder" = "目標タイトルを入力…";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "HFJ-Pg-WdI"; */
+"HFJ-Pg-WdI.text" = "目標日";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "HdR-X0-6Qu"; */
+"HdR-X0-6Qu.text" = "*マイナスに減っている貯蓄";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ICc-JX-CMW"; */
+"ICc-JX-CMW.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "IG8-ZO-blG"; */
+"IG8-ZO-blG.text" = "マスター通貨";
+
+/* Class = "UIButton"; normalTitle = "By due date"; ObjectID = "K82-Kb-15G"; */
+"K82-Kb-15G.normalTitle" = "期日まで";
+
+/* Class = "UILabel"; text = "Savings Account"; ObjectID = "L4R-bQ-S32"; */
+"L4R-bQ-S32.text" = "貯蓄口座";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "LGM-n6-Fzk"; */
+"LGM-n6-Fzk.text" =  "目標名";
+
+/* Class = "UILabel"; text = "No Ads"; ObjectID = "LKb-nN-gOc"; */
+"LKb-nN-gOc.text" = "広告なし";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lu9-5b-1LW"; */
+"Lu9-5b-1LW.normalTitle" =  "キャンセル";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "M6M-Q5-HhA"; */
+"M6M-Q5-HhA.text" = "貯金の頻度";
+
+/* Class = "UILabel"; text = "Select currency"; ObjectID = "MHi-bU-DF1"; */
+"MHi-bU-DF1.text" = "通貨の選択";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "MjS-V8-eiZ"; */
+"MjS-V8-eiZ.text" = "写真はありません";
+
+///* Class = "UILabel"; text = "Money Box\nv.1.6"; ObjectID = "MyM-ID-C0D"; */
+//"MyM-ID-C0D.text" = "Money Box\nv.1.6";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "O0L-lS-9R9"; */
+"O0L-lS-9R9.text" = "目標通貨";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "Oo2-SU-5Op"; */
+"Oo2-SU-5Op.text" = "リマインダー時間";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "Opn-ND-krI"; */
+"Opn-ND-krI.placeholder" = "金額を入力...";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "Q8q-I0-OPp"; */
+"Q8q-I0-OPp.text" = "PROバージョンのご利用ありがとうございます！";
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "QZb-Ms-SwE"; */
+"QZb-Ms-SwE.text" = "メモ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S5R-Wb-kGj"; */
+"S5R-Wb-kGj.text" = "Label";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "SLo-9E-Mx6"; */
+"SLo-9E-Mx6.text" = "写真はありません";
+
+/* Class = "UILabel"; text = "You do not have active goals."; ObjectID = "Sok-9b-rds"; */
+"Sok-9b-rds.text" = "あなたは、アクティブな目標を持っていません。";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "TDd-bW-77e"; */
+"TDd-bW-77e.placeholder" = "コメントを入力してください...";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TG3-iw-kEi"; */
+"TG3-iw-kEi.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "UXK-dq-ys9"; */
+"UXK-dq-ys9.text" = "貯蓄リマインダーの設定";
+
+/* Class = "UILabel"; text = "Unlimited number of goals"; ObjectID = "V7e-Tf-IWB"; */
+"V7e-Tf-IWB.text" = "ゴール数無制限";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VHR-Oz-uG8"; */
+"VHR-Oz-uG8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "VkY-g5-Ehv"; */
+"VkY-g5-Ehv.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "VmG-vn-hUI"; */
+"VmG-vn-hUI.text" = "目標金額";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "WD6-03-cK9"; */
+"WD6-03-cK9.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "WHG-jr-bwN"; */
+"WHG-jr-bwN.text" = "貯蓄リマインダーの設定";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "WQM-24-wfz"; */
+"WQM-24-wfz.text" = "マスター通貨";
+
+/* Class = "UILabel"; text = "Upgrade to PRO version!"; ObjectID = "Wu3-Xa-bJl"; */
+"Wu3-Xa-bJl.text" = "プロ版にアップグレード！";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "YJb-nW-CAZ"; */
+"YJb-nW-CAZ.text" = "リマインダーの日";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "Yev-ho-7VV"; */
+"Yev-ho-7VV.text" = "ゴール情報";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Yvq-jT-JUy"; */
+"Yvq-jT-JUy.text" = "日付";
+
+/* Class = "UILabel"; text = "You don`t have"; ObjectID = "Zu8-RX-WSZ"; */
+"Zu8-RX-WSZ.text" = "持っていません";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "anB-Jr-pc0"; */
+"anB-Jr-pc0.placeholder" ="金額を入力...";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "b5X-cy-hiH"; */
+"b5X-cy-hiH.text" = "金額*";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "bSB-L8-bRK"; */
+"bSB-L8-bRK.normalTitle" =  "完了";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "bqT-pJ-IbQ"; */
+"bqT-pJ-IbQ.text" = "PROバージョンのご利用ありがとうございます！";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "bsf-jk-Lbn"; */
+"bsf-jk-Lbn.text" = "日付";
+
+/* Class = "UIButton"; normalTitle = "RESTORE PURCHASES"; ObjectID = "bzj-Rd-GF1"; */
+"bzj-Rd-GF1.normalTitle" = "購入を復元";
+
+/* Class = "UILabel"; text = "Savings needed to meet the goal"; ObjectID = "c5o-zM-EMx"; */
+"c5o-zM-EMx.text" = "目標を達成するために必要な貯蓄";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "cSJ-Aa-PWV"; */
+"cSJ-Aa-PWV.text" = "リマインダーの日付";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "cSV-Ht-u5z"; */
+"cSV-Ht-u5z.text" = "通貨設定";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "cre-7n-mse"; */
+"cre-7n-mse.text" = "目標日";
+
+/* Class = "UILabel"; text = "Total for all active goals"; ObjectID = "d3c-lR-00h"; */
+"d3c-lR-00h.text" = "すべてのアクティブな目標の合計";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "dl3-zh-vXq"; */
+"dl3-zh-vXq.text" =  "*マイナスに減っている貯蓄";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "emV-PU-dnm"; */
+"emV-PU-dnm.normalTitle" = "完了";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "f4b-u8-d6U"; */
+"f4b-u8-d6U.text" ="合計を表示";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "fEg-TO-GRc"; */
+"fEg-TO-GRc.text" = "リマインダー時間";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "fmt-jW-5vG"; */
+"fmt-jW-5vG.placeholder" = "目標タイトルを入力…";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "gE9-2h-DOR"; */
+"gE9-2h-DOR.text" =  "合計を表示";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "gZK-Q1-Iq5"; */
+"gZK-Q1-Iq5.text" = "貯蓄口座";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "hI2-ck-cjY"; */
+"hI2-ck-cjY.placeholder" = "アカウントを入力...";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "j0Y-KI-fSY"; */
+"j0Y-KI-fSY.text" = "貯金の頻度";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "jDA-n7-kSK"; */
+"jDA-n7-kSK.text" = "リマインダー時間";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "pON-5C-WnS"; */
+"pON-5C-WnS.placeholder" = "コメントを入力してください...";
+
+/* Class = "UILabel"; text = "any goals contributions."; ObjectID = "qmD-Us-pdY"; */
+"qmD-Us-pdY.text" = "目標達成への貯金。";
+
+/* Class = "UILabel"; text = "Press \"+\" in the upper right corner to add contribution."; ObjectID = "sBK-2O-pH2"; */
+"sBK-2O-pH2.text" = "貯金を追加するには、右上隅の「+」を押してください。";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uMV-Cs-EEw"; */
+"uMV-Cs-EEw.normalTitle" = "完了";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uXU-qb-ufx"; */
+"uXU-qb-ufx.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "uXv-is-XLI"; */
+"uXv-is-XLI.text" = "リマインダー時間";
+
+/* Class = "UILabel"; text = "Goal Contributions"; ObjectID = "w2o-y5-eT4"; */
+"w2o-y5-eT4.text" = "貯金の目標";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "wW2-Km-XEJ"; */
+"wW2-Km-XEJ.text" = "リマインダー時間";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "wjO-wG-eKA"; */
+"wjO-wG-eKA.text" = "リマインダーの日";
+
+/* Class = "UIButton"; normalTitle = "Alphabetically"; ObjectID = "yM6-pW-gxz"; */
+"yM6-pW-gxz.normalTitle" = "アルファベット順";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "ywW-Nk-MRh"; */
+"ywW-Nk-MRh.text" = "写真はありません";
+
+/* Class = "UIButton"; normalTitle = "UPGRADE TO PRO"; ObjectID = "z3K-rq-pGv"; */
+"z3K-rq-pGv.normalTitle" = "プロ仕様にアップグレードする";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "ztb-qB-L6h"; */
+"ztb-qB-L6h.text" =  "通貨設定";
+
+/* Class = "UILabel"; text = "Show Totals"; ObjectID = "rCC-dH-zbQ"; */
+"rCC-dH-zbQ.text" = "合計を表示";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "LZ0-fo-uqh"; */
+"LZ0-fo-uqh.text" = "目標を作成する";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "cIf-oy-f0H"; */
+"cIf-oy-f0H.text" = "目標を作成する";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "aEn-kS-xCY"; */
+"aEn-kS-xCY.text" = "目標を作成する";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "k4K-eS-99f"; */
+"k4K-eS-99f.normalTitle" = "閉じる";
+
+/* Class = "UIButton"; normalTitle = "See Later"; ObjectID = "k0N-Mq-CcK"; */
+"k0N-Mq-CcK.normalTitle" = "後で見る";
+
+/* Class = "UIButton"; normalTitle = "OPEN"; ObjectID = "h2O-6H-PO7"; */
+"h2O-6H-PO7.normalTitle" = "開いた";
+
+/* Class = "UILabel"; text = "We are proud to introduce our new app Debt Free Box: Snowball. If you like Money Box we are sure you will like Debt Free Box. It is built by us with same principles of functional simplicity and design in mind."; ObjectID = "9aC-Gc-Nup"; */
+"9aC-Gc-Nup.text" = "私たちは新しいアプリ「Debt Free Box：Snowball」を紹介して誇りに思っています。 あなたがマネーボックスが好きなら、あなたは債務フリーボックスが好きだろうと確信しています。 機能的なシンプルさとデザインの原則を念頭に置いて設計されています。";
+
+/* Class = "UILabel"; text = "Debt Free Box is the easiest to use Debt Payoff management app-no need to track every transcation or detail-just set up your payoff plan once and app will help you follow it through until you are fully Debt Free."; ObjectID = "7b3-Nk-6zg"; */
+"7b3-Nk-6zg.text" = "Debt Payoff管理アプリケーションを使用するのが最も簡単です。すべての転記や詳細を追跡する必要はありません。あなたの支払い計画を一度設定するだけです。アプリは、完全に負債がなくなるまでそれを追跡するのに役立ちます。";
+
+/* Class = "UILabel"; text = "OTHER"; ObjectID = "o7w-Qw-2lF"; */
+"o7w-Qw-2lF.text" = "その他";

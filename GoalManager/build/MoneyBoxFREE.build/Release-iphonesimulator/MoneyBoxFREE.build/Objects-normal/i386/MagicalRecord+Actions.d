@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+Actions.m \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/CoreData+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecordDeprecated.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+Actions.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalSaves.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+ErrorHandling.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+Options.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+ShorthandSupport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+Setup.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Core/MagicalRecord+iCloud.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRequests.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalFinders.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalAggregation.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalObserving.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalThreading.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSPersistentStore+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObjectModel+MagicalRecord.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/MagicalImportFunctions.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSNumber+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSObject+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSString+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSAttributeDescription+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSRelationshipDescription+MagicalDataImport.h \
+  /Users/apple/Desktop/MoneyBoxFREE/22_06/GoalManager/GoalManager/Helper/MagicalRecord/Categories/DataImport/NSEntityDescription+MagicalDataImport.h

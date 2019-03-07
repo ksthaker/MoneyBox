@@ -1,0 +1,183 @@
+
+/* Class = "IBUILabel"; text = "Notes"; ObjectID = "0Xm-oX-HpR"; */
+"0Xm-oX-HpR.text" = "Notes";
+
+/* Class = "IBUILabel"; text = "Create"; ObjectID = "2ab-z9-HZc"; */
+"2ab-z9-HZc.text" = "Create";
+
+/* Class = "IBUILabel"; text = "Savings account"; ObjectID = "2lU-TH-N8k"; */
+"2lU-TH-N8k.text" = "Savings account";
+
+/* Class = "IBUILabel"; text = "Savings Account"; ObjectID = "3H7-UD-Z21"; */
+"3H7-UD-Z21.text" = "Savings Account";
+
+/* Class = "IBUILabel"; text = "Goal amount"; ObjectID = "53o-Uf-P5r"; */
+"53o-Uf-P5r.text" = "Goal amount";
+
+/* Class = "IBUILabel"; text = "Master Currency"; ObjectID = "7MJ-bM-74S"; */
+"7MJ-bM-74S.text" = "Master Currency";
+
+/* Class = "IBUILabel"; text = "Contribute"; ObjectID = "8m8-I7-HjH"; */
+"8m8-I7-HjH.text" = "Contribute";
+
+/* Class = "IBUITextField"; placeholder = "Enter savings account"; ObjectID = "A8A-GO-4qH"; */
+"A8A-GO-4qH.placeholder" = "Enter savings account";
+
+/* Class = "IBUILabel"; text = "Not Planned"; ObjectID = "AGY-vT-yU1"; */
+"AGY-vT-yU1.text" = "Not Planned";
+
+/* Class = "IBUILabel"; text = "Milestone"; ObjectID = "Adz-Ku-rBN"; */
+"Adz-Ku-rBN.text" = "Milestone";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "Ahq-e8-tFN"; */
+"Ahq-e8-tFN.text" = "Date";
+
+/* Class = "IBUILabel"; text = "Amount *"; ObjectID = "BI0-uB-sgy"; */
+"BI0-uB-sgy.text" = "Amount *";
+
+/* Class = "IBUIButton"; normalTitle = "Completed Goals"; ObjectID = "Bs4-ft-BO8"; */
+"Bs4-ft-BO8.normalTitle" = "Completed Goals";
+
+/* Class = "IBUILabel"; text = "Set saving reminder"; ObjectID = "C9a-Mr-A60"; */
+"C9a-Mr-A60.text" = "Set saving reminder";
+
+/* Class = "IBUILabel"; text = "Allow Facebook account"; ObjectID = "Dh9-H6-Z5E"; */
+"Dh9-H6-Z5E.text" = "Allow Facebook account";
+
+/* Class = "IBUILabel"; text = "Goal amount"; ObjectID = "Dn3-5u-9Ih"; */
+"Dn3-5u-9Ih.text" = "Goal amount";
+
+/* Class = "IBUILabel"; text = "Master Currency"; ObjectID = "IuD-wv-00T"; */
+"IuD-wv-00T.text" = "Master Currency";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "KEV-LL-rIZ"; */
+"KEV-LL-rIZ.text" = "Remind me";
+
+/* Class = "IBUITextField"; placeholder = "Enter goal title"; ObjectID = "Kpp-1Z-Tgd"; */
+"Kpp-1Z-Tgd.placeholder" = "Enter goal title";
+
+/* Class = "IBUILabel"; text = "Target date"; ObjectID = "MB7-fn-GAI"; */
+"MB7-fn-GAI.text" = "Target date";
+
+/* Class = "IBUILabel"; text = "Select currency"; ObjectID = "MHi-bU-DF1"; */
+"MHi-bU-DF1.text" = "Select currency";
+
+/* Class = "IBUITextField"; placeholder = "Enter goal title"; ObjectID = "Q9B-f1-LWt"; */
+"Q9B-f1-LWt.placeholder" = "Enter goal title";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "Rp7-sJ-faL"; */
+"Rp7-sJ-faL.text" = "Remind me";
+
+/* Class = "IBUILabel"; text = "Events to Share"; ObjectID = "SG5-Tb-2eN"; */
+"SG5-Tb-2eN.text" = "Events to Share";
+
+/* Class = "IBUILabel"; text = "Reminder day"; ObjectID = "SJL-HN-fgd"; */
+"SJL-HN-fgd.text" = "Reminder day";
+
+/* Class = "IBUILabel"; text = "Show totals"; ObjectID = "Vua-zI-IPS"; */
+"Vua-zI-IPS.text" = "Show totals";
+
+/* Class = "IBUIButton"; normalTitle = "Uncompleted Goals"; ObjectID = "YjB-kt-RC6"; */
+"YjB-kt-RC6.normalTitle" = "Uncompleted Goals";
+
+/* Class = "IBUILabel"; text = "* negative decreases savings"; ObjectID = "YrR-w5-DCG"; */
+"YrR-w5-DCG.text" = "* negative decreases savings";
+
+/* Class = "IBUILabel"; text = "Title of goal"; ObjectID = "Z8a-JN-uCb"; */
+"Z8a-JN-uCb.text" = "Title of goal";
+
+/* Class = "IBUILabel"; text = "Reminder date"; ObjectID = "aDS-H8-WwZ"; */
+"aDS-H8-WwZ.text" = "Reminder date";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "bvW-Y8-Psc"; */
+"bvW-Y8-Psc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Set saving reminder"; ObjectID = "cHm-P3-Ppr"; */
+"cHm-P3-Ppr.text" = "Set saving reminder";
+
+/* Class = "IBUILabel"; text = "Allow Twitter account"; ObjectID = "cLc-lh-LKg"; */
+"cLc-lh-LKg.text" = "Allow Twitter account";
+
+/* Class = "IBUILabel"; text = "Notes"; ObjectID = "dqM-e0-7ZN"; */
+"dqM-e0-7ZN.text" = "Notes";
+
+/* Class = "IBUITextField"; placeholder = "Enter goal amount"; ObjectID = "eXu-Ry-30I"; */
+"eXu-Ry-30I.placeholder" = "Enter goal amount";
+
+/* Class = "IBUILabel"; text = "Target date"; ObjectID = "epy-3R-mzH"; */
+"epy-3R-mzH.text" = "Target date";
+
+/* Class = "IBUILabel"; text = "Savings needed to meet the goal"; ObjectID = "flf-Qu-36r"; */
+"flf-Qu-36r.text" = "Savings needed to meet the goal";
+
+/* Class = "IBUILabel"; text = "Currency"; ObjectID = "g14-St-QMj"; */
+"g14-St-QMj.text" = "Currency";
+
+/* Class = "IBUILabel"; text = "Amount *"; ObjectID = "g4V-5i-xqe"; */
+"g4V-5i-xqe.text" = "Amount *";
+
+/* Class = "IBUILabel"; text = "Reminder day"; ObjectID = "iOF-SO-jTs"; */
+"iOF-SO-jTs.text" = "Reminder day";
+
+/* Class = "IBUILabel"; text = "Achieve"; ObjectID = "kM5-M4-UWt"; */
+"kM5-M4-UWt.text" = "Achieve";
+
+/* Class = "IBUILabel"; text = "Planned savings frequency"; ObjectID = "kQv-Ld-IOC"; */
+"kQv-Ld-IOC.text" = "Planned savings frequency";
+
+/* Class = "IBUILabel"; text = "Saving frequency"; ObjectID = "lUz-eH-KPP"; */
+"lUz-eH-KPP.text" = "Saving frequency";
+
+/* Class = "IBUILabel"; text = "Currency"; ObjectID = "nFG-br-2xo"; */
+"nFG-br-2xo.text" = "Currency";
+
+/* Class = "IBUILabel"; text = "Reminder date"; ObjectID = "nLc-Cf-ZGU"; */
+"nLc-Cf-ZGU.text" = "Reminder date";
+
+/* Class = "IBUITextField"; placeholder = "Enter goal amount"; ObjectID = "nPR-C0-xBZ"; */
+"nPR-C0-xBZ.placeholder" = "Enter goal amount";
+
+/* Class = "IBUILabel"; text = "Planned savings frequency"; ObjectID = "oEY-wE-csJ"; */
+"oEY-wE-csJ.text" = "Planned savings frequency";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "oWV-S6-I3s"; */
+"oWV-S6-I3s.text" = "Remind me";
+
+/* Class = "IBUILabel"; text = "Not Planned"; ObjectID = "t7C-Y5-9ty"; */
+"t7C-Y5-9ty.text" = "Not Planned";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "tT7-gZ-PDA"; */
+"tT7-gZ-PDA.text" = "Remind me";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "u5w-40-oSG"; */
+"u5w-40-oSG.text" = "Remind me";
+
+/* Class = "IBUILabel"; text = "Total for all active goals"; ObjectID = "uTO-ij-d8v"; */
+"uTO-ij-d8v.text" = "Total for all active goals";
+
+/* Class = "IBUILabel"; text = "Turn sharing"; ObjectID = "vjr-0w-qJi"; */
+"vjr-0w-qJi.text" = "Turn sharing";
+
+/* Class = "IBUILabel"; text = "Reminder time"; ObjectID = "vkP-Wf-XW7"; */
+"vkP-Wf-XW7.text" = "Reminder time";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "vnw-T9-SHX"; */
+"vnw-T9-SHX.text" = "Date";
+
+/* Class = "IBUITextField"; placeholder = "Enter savings account"; ObjectID = "vqA-Of-J1j"; */
+"vqA-Of-J1j.placeholder" = "Enter savings account";
+
+/* Class = "IBUILabel"; text = "Savings account"; ObjectID = "xID-AM-V8Z"; */
+"xID-AM-V8Z.text" = "Savings account";
+
+/* Class = "IBUILabel"; text = "Remind me"; ObjectID = "xM3-qt-jPX"; */
+"xM3-qt-jPX.text" = "Remind me";
+
+/* Class = "IBUILabel"; text = "Title of goal"; ObjectID = "y63-xb-ydB"; */
+"y63-xb-ydB.text" = "Title of goal";
+
+/* Class = "IBUILabel"; text = "* negative decreases savings"; ObjectID = "z0i-sC-F6A"; */
+"z0i-sC-F6A.text" = "* negative decreases savings";
+
+/* Class = "IBUIButton"; normalTitle = "Goal Contributions"; ObjectID = "zsu-ua-4lB"; */
+"zsu-ua-4lB.normalTitle" = "Goal Contributions";

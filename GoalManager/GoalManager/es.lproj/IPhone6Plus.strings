@@ -1,0 +1,311 @@
+/* Class = "UILabel"; text = "Goals"; ObjectID = "DQw-Wu-Dy9"; */
+"DQw-Wu-Dy9.text" = "Objetivos";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "1zv-T8-Kdw"; */
+"1zv-T8-Kdw.placeholder" = "Introducir cuenta...";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "27u-iO-owM"; */
+"27u-iO-owM.text" = "Fecha del recordatorio";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "2Jc-Rb-cuQ"; */
+"2Jc-Rb-cuQ.text" = "TÍTULO DEL OBJETIVO";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "39w-s9-7T9"; */
+"39w-s9-7T9.text" = "Divisa principal";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "49a-0i-vdr"; */
+"49a-0i-vdr.text" = "Cuenta de ahorros";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "4I6-YG-hbe"; */
+"4I6-YG-hbe.text" = "Frecuencia de ahorro";
+
+/* Class = "UILabel"; text = "Includes everything from free version plus :"; ObjectID = "4q1-7P-JYD"; */
+"4q1-7P-JYD.text" = "Incluye todas las funciones de la versión gratuita más:";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "5m8-4o-3Kk"; */
+"5m8-4o-3Kk.text" = "Mostrar totales";
+
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "76F-np-LnA"; */
+"76F-np-LnA.text" = "NOTAS";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "7qB-wr-I1l"; */
+"7qB-wr-I1l.normalTitle" = "Hecho";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7tH-PU-Vo3"; */
+"7tH-PU-Vo3.normalTitle" =  "Cancelar";
+
+/* Class = "UILabel"; text = "About Money Box"; ObjectID = "8Zq-lt-blQ"; */
+"8Zq-lt-blQ.text" = "Sobre Money Box";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "8cw-tY-eCf"; */
+"8cw-tY-eCf.text" = "Frecuencia de ahorro";
+
+/* Class = "UILabel"; text = "      FEEDBACK"; ObjectID = "8mR-J9-WJZ"; */
+"8mR-J9-WJZ.text" = "      COMENTARIOS";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "A5A-iz-HjG"; */
+"A5A-iz-HjG.text" = "INFORMACIÓN DEL OBJETIVO";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Alu-NB-Yek"; */
+"Alu-NB-Yek.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "ADD GOAL"; ObjectID = "BWJ-B7-T2O"; */
+"BWJ-B7-T2O.normalTitle" = "AÑADIR OBJETIVO";
+
+/* Class = "UILabel"; text = "Reminder Me"; ObjectID = "BbQ-3k-8O9"; */
+"BbQ-3k-8O9.text" = "Reminder Me";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "CMt-qR-JDf"; */
+"CMt-qR-JDf.text" = "Cantidad del objetivo";
+
+/* Class = "UILabel"; text = "Choose sorting type"; ObjectID = "DD1-JA-aDU"; */
+"DD1-JA-aDU.text" = "Elige tipo de ordenación";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "Ddk-km-yDC"; */
+"Ddk-km-yDC.text" = "Cantidad *";
+
+/* Class = "UILabel"; text = "Reminder Me"; ObjectID = "EZf-2w-ZUS"; */
+"EZf-2w-ZUS.text" = "Reminder Me";
+
+/* Class = "UILabel"; text = "Press \"Add Goal\" to start."; ObjectID = "Fjb-3R-7l6"; */
+"Fjb-3R-7l6.text" = "Pulsa \"Añadir objetivo\" para empezar.";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "GDJ-3t-sEZ"; */
+"GDJ-3t-sEZ.text" = "Divisa del objetivo";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "Gzr-SW-zA4"; */
+"Gzr-SW-zA4.placeholder" = "Introduce el título del objetivo...";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "HFJ-Pg-WdI"; */
+"HFJ-Pg-WdI.text" = "Fecha objetivo";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "HdR-X0-6Qu"; */
+"HdR-X0-6Qu.text" = "* Una cantidad negativa disminuye los ahorros";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ICc-JX-CMW"; */
+"ICc-JX-CMW.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "IG8-ZO-blG"; */
+"IG8-ZO-blG.text" = "Divisa principal";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "IOv-36-gHF"; */
+"IOv-36-gHF.text" = "Hora del recordatorio";
+
+/* Class = "UILabel"; text = "Savings Account"; ObjectID = "IQU-Tp-R6b"; */
+"IQU-Tp-R6b.text" = "Cuenta de ahorros";
+
+/* Class = "UIButton"; normalTitle = "By due date"; ObjectID = "K82-Kb-15G"; */
+"K82-Kb-15G.normalTitle" = "Por fecha de vencimiento";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "LGM-n6-Fzk"; */
+"LGM-n6-Fzk.text" = "TÍTULO DEL OBJETIVO";
+
+/* Class = "UILabel"; text = "No Ads"; ObjectID = "LKb-nN-gOc"; */
+"LKb-nN-gOc.text" = "Sin anuncios";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "Ltg-8K-2Nd"; */
+"Ltg-8K-2Nd.text" = "INFORMACIÓN DEL OBJETIVO";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lu9-5b-1LW"; */
+"Lu9-5b-1LW.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "M6M-Q5-HhA"; */
+"M6M-Q5-HhA.text" = "Frecuencia de ahorro";
+
+/* Class = "UILabel"; text = "Select currency"; ObjectID = "MHi-bU-DF1"; */
+"MHi-bU-DF1.text" = "Seleccionar divisa";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "MjS-V8-eiZ"; */
+"MjS-V8-eiZ.text" = "Sin foto";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "O0L-lS-9R9"; */
+"O0L-lS-9R9.text" = "Divisa del objetivo";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "Oo2-SU-5Op"; */
+"Oo2-SU-5Op.text" = "Hora del recordatorio";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "Opn-ND-krI"; */
+"Opn-ND-krI.placeholder" = "Introducir cantidad...";
+
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "QZb-Ms-SwE"; */
+"QZb-Ms-SwE.text" = "NOTAS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qpv-fz-llu"; */
+"Qpv-fz-llu.text" = "Label";
+
+/* Class = "UILabel"; text = "You do not have active goals."; ObjectID = "Sok-9b-rds"; */
+"Sok-9b-rds.text" = "No tienes objetivos activos.";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "TDd-bW-77e"; */
+"TDd-bW-77e.placeholder" = "Introduce tu comentario...";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TG3-iw-kEi"; */
+"TG3-iw-kEi.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "UXK-dq-ys9"; */
+"UXK-dq-ys9.text" = "Configurar recordatorio de ahorro";
+
+/* Class = "UILabel"; text = "Unlimited number of goals"; ObjectID = "V7e-Tf-IWB"; */
+"V7e-Tf-IWB.text" = "Número ilimitado de objetivos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VHR-Oz-uG8"; */
+"VHR-Oz-uG8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "VkY-g5-Ehv"; */
+"VkY-g5-Ehv.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "VmG-vn-hUI"; */
+"VmG-vn-hUI.text" = "Cantidad del objetivo";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "WD6-03-cK9"; */
+"WD6-03-cK9.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "WHG-jr-bwN"; */
+"WHG-jr-bwN.text" = "Configurar recordatorio de ahorro";
+
+/* Class = "UILabel"; text = "Upgrade to PRO version!"; ObjectID = "Wu3-Xa-bJl"; */
+"Wu3-Xa-bJl.text" = "¡Pásate a la versión PRO!";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "YJb-nW-CAZ"; */
+"YJb-nW-CAZ.text" = "Día del recordatorio";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "Yev-ho-7VV"; */
+"Yev-ho-7VV.text" = "INFORMACIÓN DEL OBJETIVO";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Yvq-jT-JUy"; */
+"Yvq-jT-JUy.text" = "Fecha";
+
+/* Class = "UILabel"; text = "You don`t have"; ObjectID = "Zu8-RX-WSZ"; */
+"Zu8-RX-WSZ.text" = "No has realizado";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "anB-Jr-pc0"; */
+"anB-Jr-pc0.placeholder" = "Introducir cantidad...";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "b5X-cy-hiH"; */
+"b5X-cy-hiH.text" = "Cantidad *";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "bSB-L8-bRK"; */
+"bSB-L8-bRK.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "bsf-jk-Lbn"; */
+"bsf-jk-Lbn.text" = "Fecha";
+
+/* Class = "UIButton"; normalTitle = "RESTORE PURCHASES"; ObjectID = "bzj-Rd-GF1"; */
+"bzj-Rd-GF1.normalTitle" = "RESTAURAR COMPRAS";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "cSJ-Aa-PWV"; */
+"cSJ-Aa-PWV.text" = "Fecha del recordatorio";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "cSV-Ht-u5z"; */
+"cSV-Ht-u5z.text" = "AJUSTES DE DIVISAS";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "cre-7n-mse"; */
+"cre-7n-mse.text" = "Fecha objetivo";
+
+/* Class = "UILabel"; text = "Total for all active goals"; ObjectID = "d3c-lR-00h"; */
+"d3c-lR-00h.text" = "Total de todos los objetivos activos";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "dl3-zh-vXq"; */
+"dl3-zh-vXq.text" = "* Una cantidad negativa disminuye los ahorros";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "emV-PU-dnm"; */
+"emV-PU-dnm.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "f4b-u8-d6U"; */
+"f4b-u8-d6U.text" = "Mostrar totales";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "fEg-TO-GRc"; */
+"fEg-TO-GRc.text" = "Hora del recordatorio";
+
+///* Class = "UILabel"; text = "Money Box\nv.1.6"; ObjectID = "fRt-cJ-S2l"; */
+//"fRt-cJ-S2l.text" = "Money Box\nv.1.6";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "fmt-jW-5vG"; */
+"fmt-jW-5vG.placeholder" = "Introduce el título del objetivo...";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "gZK-Q1-Iq5"; */
+"gZK-Q1-Iq5.text" = "Cuenta de ahorros";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "gyw-XK-rPw"; */
+"gyw-XK-rPw.text" = "Sin foto";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "hI2-ck-cjY"; */
+"hI2-ck-cjY.placeholder" = "Introducir cuenta...";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "hcV-kL-4H4"; */
+"hcV-kL-4H4.text" = "AJUSTES DE DIVISAS";
+
+/* Class = "UILabel"; text = "Goal Contributions"; ObjectID = "iVt-kb-mXW"; */
+"iVt-kb-mXW.text" = "Contribuciones al objetivo";
+
+/* Class = "UILabel"; text = "Savings needed to meet the goal"; ObjectID = "irF-CL-cqR"; */
+"irF-CL-cqR.text" = "Ahorros necesarios para llegar al objetivo";
+
+/* Class = "UILabel"; text = "Reminder Me"; ObjectID = "jDA-n7-kSK"; */
+"jDA-n7-kSK.text" = "Recordármelo más tarde";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "pON-5C-WnS"; */
+"pON-5C-WnS.placeholder" = "Introduce tu comentario...";
+
+/* Class = "UILabel"; text = "any goals contributions."; ObjectID = "qmD-Us-pdY"; */
+"qmD-Us-pdY.text" = "ninguna contribución a tus objetivos.";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "qxI-IG-qdc"; */
+"qxI-IG-qdc.text" = "¡Gracias por usar la versión PRO!";
+
+/* Class = "UILabel"; text = "Press \"+\" in the upper right corner to add contribution."; ObjectID = "sBK-2O-pH2"; */
+"sBK-2O-pH2.text" = "Pulsa \"+\" en la esquina superior derecha para añadir una contribución.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uMV-Cs-EEw"; */
+"uMV-Cs-EEw.normalTitle" = "Hecho";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uXU-qb-ufx"; */
+"uXU-qb-ufx.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "uXv-is-XLI"; */
+"uXv-is-XLI.text" = "Hora del recordatorio";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "wjO-wG-eKA"; */
+"wjO-wG-eKA.text" = "Día del recordatorio";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "wwM-Eb-uqQ"; */
+"wwM-Eb-uqQ.text" = "¡Gracias por usar la versión PRO!";
+
+/* Class = "UIButton"; normalTitle = "Alphabetically"; ObjectID = "yM6-pW-gxz"; */
+"yM6-pW-gxz.normalTitle" = "Por orden alfabético";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "ywW-Nk-MRh"; */
+"ywW-Nk-MRh.text" = "Sin foto";
+
+/* Class = "UIButton"; normalTitle = "UPGRADE TO PRO"; ObjectID = "z3K-rq-pGv"; */
+"z3K-rq-pGv.normalTitle" = "Actualizar a PRO";
+
+/* Class = "UILabel"; text = "Show Totals"; ObjectID = "n82-b2-6N3"; */
+"n82-b2-6N3.text" = "Mostrar totales";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "rw0-Kg-ejp"; */
+"rw0-Kg-ejp.text" = "Crear objetivo";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "FOu-MA-KZ7"; */
+"FOu-MA-KZ7.text" = "Crear objetivo";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "EEg-Ex-re1"; */
+"EEg-Ex-re1.text" = "Crear objetivo";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "ek8-TO-Imh"; */
+"ek8-TO-Imh.normalTitle" = "Cerca";
+
+/* Class = "UIButton"; normalTitle = "See Later"; ObjectID = "A72-oi-t8c"; */
+"A72-oi-t8c.normalTitle" = "Nos vemos";
+
+/* Class = "UIButton"; normalTitle = "OPEN"; ObjectID = "Z6X-dN-tiO"; */
+"Z6X-dN-tiO.normalTitle" = "ABIERTO";
+
+/* Class = "UILabel"; text = "We are proud to introduce our new app Debt Free Box: Snowball. If you like Money Box we are sure you will like Debt Free Box. It is built by us with same principles of functional simplicity and design in mind."; ObjectID = "EEE-97-why"; */
+"EEE-97-why.text" = "Estamos orgullosos de presentar nuestra nueva aplicación Debt Free Box: Snowball. Si te gusta Money Box, estamos seguros de que te gustará Debt Free Box. Lo construimos con los mismos principios de simplicidad funcional y diseño en mente.";
+
+/* Class = "UILabel"; text = "Debt Free Box is the easiest to use Debt Payoff management app-no need to track every transcation or detail-just set up your payoff plan once and app will help you follow it through until you are fully Debt Free."; ObjectID = "7JF-AV-dVV"; */
+"7JF-AV-dVV.text" = "Debt Free Box es la aplicación de administración de deudas más fácil de usar, no es necesario rastrear cada traslación o detalle, simplemente configure su plan de pago una vez y la aplicación lo ayudará a seguirlo hasta que esté completamente libre de deudas.";
+
+/* Class = "UILabel"; text = "OTHER"; ObjectID = "oXf-YX-0T2"; */
+"oXf-YX-0T2.text" = "OTRO";

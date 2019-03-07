@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="13E28" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Contribution" representedClassName="Contribution" syncable="YES">
+        <attribute name="c_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c_date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c_notes" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="r_goal" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Goal" inverseName="r_contribution" inverseEntity="Goal">
+            <userInfo>
+                <entry key="isDirty" value="NO"/>
+            </userInfo>
+        </relationship>
+    </entity>
+    <entity name="Goal" representedClassName="Goal" syncable="YES">
+        <attribute name="g_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_completedstatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_contributedamount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_creationdate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_eighty" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_fifty" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_picture" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="g_reminderdate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_reminderday" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_remindertime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_savingaccount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_savingfrequency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_setsavingreminder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_targetdate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g_title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="r_contribution" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Contribution" inverseName="r_goal" inverseEntity="Contribution">
+            <userInfo/>
+        </relationship>
+    </entity>
+    <elements>
+        <element name="Contribution" positionX="-54" positionY="72" width="128" height="103"/>
+        <element name="Goal" positionX="-54" positionY="-9" width="128" height="300"/>
+    </elements>
+</model>

@@ -1,0 +1,313 @@
+/* Class = "UILabel"; text = "Goals"; ObjectID = "KEY-je-Ewt"; */
+"KEY-je-Ewt.text" = "目标";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "1zv-T8-Kdw"; */
+"1zv-T8-Kdw.placeholder" = "输入帐号…";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "27u-iO-owM"; */
+"27u-iO-owM.text" = "提醒日期";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "2Jc-Rb-cuQ"; */
+"2Jc-Rb-cuQ.text" = "目标标题";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "49a-0i-vdr"; */
+"49a-0i-vdr.text" = "储蓄账户";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "4I6-YG-hbe"; */
+"4I6-YG-hbe.text" = "储蓄频率";
+
+/* Class = "UILabel"; text = "Includes everything from free version plus :"; ObjectID = "4q1-7P-JYD"; */
+"4q1-7P-JYD.text" = "拥有免费版的所有功能，而且：";
+
+/* Class = "UILabel"; text = "      FEEDBACK"; ObjectID = "58U-cX-6AZ"; */
+"58U-cX-6AZ.text" = "      反馈";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "6Uk-xG-rRt"; */
+"6Uk-xG-rRt.text" = "目标信息";
+
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "76F-np-LnA"; */
+"76F-np-LnA.text" = "备注";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "7qB-wr-I1l"; */
+"7qB-wr-I1l.normalTitle" = "完成";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7tH-PU-Vo3"; */
+"7tH-PU-Vo3.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "A5A-iz-HjG"; */
+"A5A-iz-HjG.text" = "目标信息";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Alu-NB-Yek"; */
+"Alu-NB-Yek.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "ADD GOAL"; ObjectID = "BWJ-B7-T2O"; */
+"BWJ-B7-T2O.normalTitle" = "添加目标";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "BbQ-3k-8O9"; */
+"BbQ-3k-8O9.text" = "提醒时间";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "CMt-qR-JDf"; */
+"CMt-qR-JDf.text" = "目标金额";
+
+/* Class = "UILabel"; text = "Choose sorting type"; ObjectID = "DD1-JA-aDU"; */
+"DD1-JA-aDU.text" = "选择排序类型";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "Ddk-km-yDC"; */
+"Ddk-km-yDC.text" = "金额*";
+
+/* Class = "UILabel"; text = "About Money Box"; ObjectID = "Dhz-5V-ftU"; */
+"Dhz-5V-ftU.text" = "关于Money Box";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "EZf-2w-ZUS"; */
+"EZf-2w-ZUS.text" = "提醒时间";
+
+/* Class = "UILabel"; text = "Press \"Add Goal\" to start."; ObjectID = "Fjb-3R-7l6"; */
+"Fjb-3R-7l6.text" = "按“添加目标”开始。";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "GDJ-3t-sEZ"; */
+"GDJ-3t-sEZ.text" = "目标货币";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "Gzr-SW-zA4"; */
+"Gzr-SW-zA4.placeholder" = "输入目标标题...";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "HFJ-Pg-WdI"; */
+"HFJ-Pg-WdI.text" = "目标日期";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "HdR-X0-6Qu"; */
+"HdR-X0-6Qu.text" = "* 负数为减少储蓄";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ICc-JX-CMW"; */
+"ICc-JX-CMW.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "IG8-ZO-blG"; */
+"IG8-ZO-blG.text" = "主货币";
+
+/* Class = "UIButton"; normalTitle = "By due date"; ObjectID = "K82-Kb-15G"; */
+"K82-Kb-15G.normalTitle" = "按到期日";
+
+/* Class = "UILabel"; text = "Savings Account"; ObjectID = "L4R-bQ-S32"; */
+"L4R-bQ-S32.text" = "储蓄账户";
+
+/* Class = "UILabel"; text = "TITLE OF GOAL"; ObjectID = "LGM-n6-Fzk"; */
+"LGM-n6-Fzk.text" = "目标标题";
+
+/* Class = "UILabel"; text = "No Ads"; ObjectID = "LKb-nN-gOc"; */
+"LKb-nN-gOc.text" = "没有广告";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lu9-5b-1LW"; */
+"Lu9-5b-1LW.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "M6M-Q5-HhA"; */
+"M6M-Q5-HhA.text" = "储蓄频率";
+
+/* Class = "UILabel"; text = "Select currency"; ObjectID = "MHi-bU-DF1"; */
+"MHi-bU-DF1.text" = "选择货币";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "MjS-V8-eiZ"; */
+"MjS-V8-eiZ.text" = "没有照片";
+
+///* Class = "UILabel"; text = "Money Box\nv.1.6"; ObjectID = "MyM-ID-C0D"; */
+//"MyM-ID-C0D.text" = "Money Box\nv.1.6";
+
+/* Class = "UILabel"; text = "Goal Currency"; ObjectID = "O0L-lS-9R9"; */
+"O0L-lS-9R9.text" = "目标货币";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "Oo2-SU-5Op"; */
+"Oo2-SU-5Op.text" = "提醒时间";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "Opn-ND-krI"; */
+"Opn-ND-krI.placeholder" = "输入金额...";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "Q8q-I0-OPp"; */
+"Q8q-I0-OPp.text" = "感谢您使用专业版！";
+
+/* Class = "UILabel"; text = "NOTES"; ObjectID = "QZb-Ms-SwE"; */
+"QZb-Ms-SwE.text" = "备注";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S5R-Wb-kGj"; */
+"S5R-Wb-kGj.text" = "Label";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "SLo-9E-Mx6"; */
+"SLo-9E-Mx6.text" = "没有照片";
+
+/* Class = "UILabel"; text = "You do not have active goals."; ObjectID = "Sok-9b-rds"; */
+"Sok-9b-rds.text" = "您能还没有有效的目标。";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "TDd-bW-77e"; */
+"TDd-bW-77e.placeholder" = "输入评论...";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "TG3-iw-kEi"; */
+"TG3-iw-kEi.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "UXK-dq-ys9"; */
+"UXK-dq-ys9.text" = "设置储蓄提醒";
+
+/* Class = "UILabel"; text = "Unlimited number of goals"; ObjectID = "V7e-Tf-IWB"; */
+"V7e-Tf-IWB.text" = "目标数量不限";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VHR-Oz-uG8"; */
+"VHR-Oz-uG8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "VkY-g5-Ehv"; */
+"VkY-g5-Ehv.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Goal amount"; ObjectID = "VmG-vn-hUI"; */
+"VmG-vn-hUI.text" = "目标金额";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "WD6-03-cK9"; */
+"WD6-03-cK9.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "Set Saving Reminder"; ObjectID = "WHG-jr-bwN"; */
+"WHG-jr-bwN.text" = "设置储蓄提醒";
+
+/* Class = "UILabel"; text = "Master Currency"; ObjectID = "WQM-24-wfz"; */
+"WQM-24-wfz.text" = "主货币";
+
+/* Class = "UILabel"; text = "Upgrade to PRO version!"; ObjectID = "Wu3-Xa-bJl"; */
+"Wu3-Xa-bJl.text" = "升级至专业版！";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "YJb-nW-CAZ"; */
+"YJb-nW-CAZ.text" = "提醒日";
+
+/* Class = "UILabel"; text = "GOAL INFO"; ObjectID = "Yev-ho-7VV"; */
+"Yev-ho-7VV.text" = "目标信息";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Yvq-jT-JUy"; */
+"Yvq-jT-JUy.text" = "日期";
+
+/* Class = "UILabel"; text = "You don`t have"; ObjectID = "Zu8-RX-WSZ"; */
+"Zu8-RX-WSZ.text" = "您没有";
+
+/* Class = "UITextField"; placeholder = "Enter amount..."; ObjectID = "anB-Jr-pc0"; */
+"anB-Jr-pc0.placeholder" = "输入金额...";
+
+/* Class = "UILabel"; text = "Amount *"; ObjectID = "b5X-cy-hiH"; */
+"b5X-cy-hiH.text" = "金额*";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "bSB-L8-bRK"; */
+"bSB-L8-bRK.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "Thanks for using PRO version!"; ObjectID = "bqT-pJ-IbQ"; */
+"bqT-pJ-IbQ.text" = "感谢您使用专业版！";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "bsf-jk-Lbn"; */
+"bsf-jk-Lbn.text" = "完成";
+
+/* Class = "UIButton"; normalTitle = "RESTORE PURCHASES"; ObjectID = "bzj-Rd-GF1"; */
+"bzj-Rd-GF1.normalTitle" = "恢复购买";
+
+/* Class = "UILabel"; text = "Savings needed to meet the goal"; ObjectID = "c5o-zM-EMx"; */
+"c5o-zM-EMx.text" = "达成目标所需的储蓄";
+
+/* Class = "UILabel"; text = "Reminder Date"; ObjectID = "cSJ-Aa-PWV"; */
+"cSJ-Aa-PWV.text" = "提醒日期";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "cSV-Ht-u5z"; */
+"cSV-Ht-u5z.text" = "货币设置";
+
+/* Class = "UILabel"; text = "Target date"; ObjectID = "cre-7n-mse"; */
+"cre-7n-mse.text" = "目标日期";
+
+/* Class = "UILabel"; text = "Total for all active goals"; ObjectID = "d3c-lR-00h"; */
+"d3c-lR-00h.text" = "全部有效目标的总额";
+
+/* Class = "UILabel"; text = "* Negative decreases savings"; ObjectID = "dl3-zh-vXq"; */
+"dl3-zh-vXq.text" = "* 负数为减少储蓄";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "emV-PU-dnm"; */
+"emV-PU-dnm.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "f4b-u8-d6U"; */
+"f4b-u8-d6U.text" = "显示总金额";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "fEg-TO-GRc"; */
+"fEg-TO-GRc.text" = "提醒时间";
+
+/* Class = "UITextField"; placeholder = "Enter title of goal..."; ObjectID = "fmt-jW-5vG"; */
+"fmt-jW-5vG.placeholder" = "输入目标标题...";
+
+/* Class = "UILabel"; text = "Show totals"; ObjectID = "gE9-2h-DOR"; */
+"gE9-2h-DOR.text" = "显示总金额";
+
+/* Class = "UILabel"; text = "Savings account"; ObjectID = "gZK-Q1-Iq5"; */
+"gZK-Q1-Iq5.text" = "储蓄账户";
+
+/* Class = "UITextField"; placeholder = "Enter account..."; ObjectID = "hI2-ck-cjY"; */
+"hI2-ck-cjY.placeholder" = "输入帐号…";
+
+/* Class = "UILabel"; text = "Saving frequency"; ObjectID = "j0Y-KI-fSY"; */
+"j0Y-KI-fSY.text" = "储蓄频率";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "jDA-n7-kSK"; */
+"jDA-n7-kSK.text" = "提醒时间";
+
+/* Class = "UITextField"; placeholder = "Enter your comment..."; ObjectID = "pON-5C-WnS"; */
+"pON-5C-WnS.placeholder" = "输入评论...";
+
+/* Class = "UILabel"; text = "any goals contributions."; ObjectID = "qmD-Us-pdY"; */
+"qmD-Us-pdY.text" = "任何目标存款。";
+
+/* Class = "UILabel"; text = "Press \"+\" in the upper right corner to add contribution."; ObjectID = "sBK-2O-pH2"; */
+"sBK-2O-pH2.text" = "按右上角的“+”号添加存款。";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "uMV-Cs-EEw"; */
+"uMV-Cs-EEw.normalTitle" = "完成";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uXU-qb-ufx"; */
+"uXU-qb-ufx.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "uXv-is-XLI"; */
+"uXv-is-XLI.text" = "提醒时间";
+
+/* Class = "UILabel"; text = "Goal Contributions"; ObjectID = "w2o-y5-eT4"; */
+"w2o-y5-eT4.text" = "目标存款";
+
+/* Class = "UILabel"; text = "Reminder time"; ObjectID = "wW2-Km-XEJ"; */
+"wW2-Km-XEJ.text" = "提醒时间";
+
+/* Class = "UILabel"; text = "Reminder Day"; ObjectID = "wjO-wG-eKA"; */
+"wjO-wG-eKA.text" = "提醒日";
+
+/* Class = "UIButton"; normalTitle = "Alphabetically"; ObjectID = "yM6-pW-gxz"; */
+"yM6-pW-gxz.normalTitle" = "按字母顺序";
+
+/* Class = "UILabel"; text = "No Photo"; ObjectID = "ywW-Nk-MRh"; */
+"ywW-Nk-MRh.text" = "没有照片";
+
+/* Class = "UIButton"; normalTitle = "UPGRADE TO PRO"; ObjectID = "z3K-rq-pGv"; */
+"z3K-rq-pGv.normalTitle" = "升级到PRO";
+
+/* Class = "UILabel"; text = "CURRENCY SETTINGS"; ObjectID = "ztb-qB-L6h"; */
+"ztb-qB-L6h.text" = "货币设置";
+
+/* Class = "UILabel"; text = "Show Totals"; ObjectID = "rCC-dH-zbQ"; */
+"rCC-dH-zbQ.text" = "显示总金额";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "LZ0-fo-uqh"; */
+"LZ0-fo-uqh.text" = "创建目标";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "cIf-oy-f0H"; */
+"cIf-oy-f0H.text" = "创建目标";
+
+/* Class = "UILabel"; text = "Create Goal"; ObjectID = "aEn-kS-xCY"; */
+"aEn-kS-xCY.text" = "创建目标";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "k4K-eS-99f"; */
+"k4K-eS-99f.normalTitle" = "关";
+
+/* Class = "UIButton"; normalTitle = "See Later"; ObjectID = "k0N-Mq-CcK"; */
+"k0N-Mq-CcK.normalTitle" = "稍后见";
+
+/* Class = "UIButton"; normalTitle = "OPEN"; ObjectID = "h2O-6H-PO7"; */
+"h2O-6H-PO7.normalTitle" = "打开";
+
+/* Class = "UILabel"; text = "We are proud to introduce our new app Debt Free Box: Snowball. If you like Money Box we are sure you will like Debt Free Box. It is built by us with same principles of functional simplicity and design in mind."; ObjectID = "9aC-Gc-Nup"; */
+"9aC-Gc-Nup.text" = "我们很荣幸地推出我们的新应用无债务盒子：雪球。 如果你喜欢钱箱，我们确信你会喜欢无债盒。 它由我们根据功能简单和设计相同的原则构建而成。";
+
+/* Class = "UILabel"; text = "Debt Free Box is the easiest to use Debt Payoff management app-no need to track every transcation or detail-just set up your payoff plan once and app will help you follow it through until you are fully Debt Free."; ObjectID = "7b3-Nk-6zg"; */
+"7b3-Nk-6zg.text" = "Debt Free Box是最容易使用的债务支付管理应用程序 - 无需跟踪每个交易或细节 - 只需设置一次您的支付计划，应用程序将帮助您遵循它，直到您完全无债务。";
+
+/* Class = "UILabel"; text = "OTHER"; ObjectID = "o7w-Qw-2lF"; */
+"o7w-Qw-2lF.text" = "其他";
+
+

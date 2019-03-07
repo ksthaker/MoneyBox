@@ -1,0 +1,384 @@
+/* 
+  Localizable.strings
+  MoneyBoxFREE
+
+  Created by apple on 06/12/16.
+  Copyright © 2016 whitelotuscorporation. All rights reserved.
+*/
+/* No comment provided by engineer. */
+"About App" = "About App";
+
+/* No comment provided by engineer. */
+"add Bi-weekly contribution to goal" = "add Bi-weekly contribution to goal";
+
+/* No comment provided by engineer. */
+"Add Contribution" = "Add Contribution";
+
+/* No comment provided by engineer. */
+"add Daily contribution to goal" = "add Daily contribution to goal";
+
+/* No comment provided by engineer. */
+"Add Goal" = "Add Goal";
+
+/* No comment provided by engineer. */
+"add Monthly contribution to goal" = "add Monthly contribution to goal";
+
+/* No comment provided by engineer. */
+"add Weekly contribution to goal" = "add Weekly contribution to goal";
+
+/* No comment provided by engineer. */
+"Album" = "Album";
+
+/* No comment provided by engineer. */
+"Alert" = "Alert";
+
+/* No comment provided by engineer. */
+"Alphabetically" = "Alphabetically";
+
+/* No comment provided by engineer. */
+"At" = "At";
+
+/* No comment provided by engineer. */
+"Bi-weekly" = "Bi-weekly";
+
+/* No comment provided by engineer. */
+"Bi-Weekly" = "Bi-Weekly";
+
+/* No comment provided by engineer. */
+"Business" = "Business";
+
+/* No comment provided by engineer. */
+"By" = "By";
+
+/* No comment provided by engineer. */
+"By due date" = "By due date";
+
+/* No comment provided by engineer. */
+"Camera" = "Camera";
+
+/* No comment provided by engineer. */
+"CANCEL" = "CANCEL";
+
+/* No comment provided by engineer. */
+"Car" = "Car";
+
+/* No comment provided by engineer. */
+"Completed Goals" = "Completed Goals";
+
+/* No comment provided by engineer. */
+"Contributions" = "Contributions";
+
+/* No comment provided by engineer. */
+"Daily" = "Daily";
+
+/* No comment provided by engineer. */
+"Edit Contribution" = "Edit Contribution";
+
+/* No comment provided by engineer. */
+"Edit Goal" = "Edit Goal";
+
+/* No comment provided by engineer. */
+"Everyday At" = "Everyday At";
+
+/* No comment provided by engineer. */
+"facebook.com/getmoneyboxapp" = "facebook.com/getmoneyboxapp";
+
+/* No comment provided by engineer. */
+"Financial Goal" = "Financial Goal";
+
+/* No comment provided by engineer. */
+"Friday" = "Friday";
+
+/* No comment provided by engineer. */
+"Goal" = "Goal";
+
+/* No comment provided by engineer. */
+"Goal Completed" = "Goal Completed";
+
+/* No comment provided by engineer. */
+"Goal overdue" = "Goal overdue";
+
+/* No comment provided by engineer. */
+"Goal Overview" = "Goal Overview";
+
+/* No comment provided by engineer. */
+"Goals" = "Goals";
+
+/* No comment provided by engineer. */
+"House" = "House";
+
+/* No comment provided by engineer. */
+"Later" = "Later";
+
+/* No comment provided by engineer. */
+"Monday" = "Monday";
+
+/* No comment provided by engineer. */
+"Money Box" = "Money Box";
+
+/* No comment provided by engineer. */
+"Money Box needs your permission to remind you about your saving goals and payments. This will help you achieve your savings goals faster. Do you want it to remind you next time?" = "Money Box needs your permission to remind you about your saving goals and payments. This will help you achieve your savings goals faster. Do you want it to remind you next time?";
+
+/* No comment provided by engineer. */
+"moneybox.mobi" = "moneybox.mobi";
+
+/* No comment provided by engineer. */
+"Monthly" = "Monthly";
+
+/* No comment provided by engineer. */
+"Motorcycle" = "Motorcycle";
+
+/* No comment provided by engineer. */
+"nd day of month at" = "nd day of month at";
+
+/* No comment provided by engineer. */
+"No goal completed" = "No goal completed";
+
+/* No comment provided by engineer. */
+"Not Planned" = "Not Planned";
+
+/* No comment provided by engineer. */
+"Notification are disallowed please make it enable from iphone's settings" = "Notification are disallowed please make it enable from iphone's settings";
+
+/* No comment provided by engineer. */
+"of" = "of";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Please enter amount" = "Please enter amount";
+
+/* No comment provided by engineer. */
+"Pick a Frequency:" = "Pick a Frequency:";
+
+/* No comment provided by engineer. */
+"Pick a week day:" = "Pick a week day:";
+
+
+/* No comment provided by engineer. */
+"Please enter amount of goal" = "Please enter amount of goal";
+
+/* No comment provided by engineer. */
+"Please enter title of goal" = "Please enter title of goal";
+
+/* No comment provided by engineer. */
+"Please select currency of goal" = "Please select currency of goal";
+
+/* No comment provided by engineer. */
+"Please select picture" = "Please select picture";
+
+/* No comment provided by engineer. */
+"Please select planned savings frequency" = "Please select planned savings frequency";
+
+/* No comment provided by engineer. */
+"Please select saving frequency first!" = "Please select saving frequency first!";
+
+/* No comment provided by engineer. */
+"Predefined Icons" = "Predefined Icons";
+
+/* No comment provided by engineer. */
+"Purchases" = "Purchases";
+
+/* No comment provided by engineer. */
+"Rate this App" = "Rate this App";
+
+/* No comment provided by engineer. */
+"rd day of month at" = "rd day of month at";
+
+/* No comment provided by engineer. */
+"Reminder not set" = "Reminder not set";
+
+/* No comment provided by engineer. */
+"Saturday" = "Saturday";
+
+/* No comment provided by engineer. */
+"Select Photo!" = "Select Photo!";
+
+/* No comment provided by engineer. */
+"Send Feedback" = "Send Feedback";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"st day of month at" = "st day of month at";
+
+/* No comment provided by engineer. */
+"Sunday" = "Sunday";
+
+/* No comment provided by engineer. */
+"Tell a friend" = "Tell a friend";
+
+/* No comment provided by engineer. */
+"th day of month at" = "th day of month at";
+
+/* No comment provided by engineer. */
+"Thursday" = "Thursday";
+
+/* No comment provided by engineer. */
+"Travel" = "Travel";
+
+/* No comment provided by engineer. */
+"Truck" = "Truck";
+
+/* No comment provided by engineer. */
+"Tuesday" = "Tuesday";
+
+/* No comment provided by engineer. */
+"TV" = "TV";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Upgrade";
+
+/* No comment provided by engineer. */
+"Wednesday" = "Wednesday";
+
+/* No comment provided by engineer. */
+"Weekly" = "Weekly";
+
+/* No comment provided by engineer. */
+"Yes, Please" = "Yes, Please";
+
+/* No comment provided by engineer. */
+"Yet not planned" = "Yet not planned";
+
+/* No comment provided by engineer. */
+"You can have only two active goals in free version. To have unlimited number of active goals and more upgrade to Pro version" = "You can have only two active goals in free version. To have unlimited number of active goals and more upgrade to Pro version";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"You have successfully deleted this goal." = "You have successfully deleted this goal.";
+
+/* No comment provided by engineer. */
+"Are you sure want to delete this goal?" = "Are you sure want to delete this goal?";
+
+/* No comment provided by engineer. */
+"You have successfully shared your post on facebook." = "You have successfully shared your post on facebook.";
+
+/* No comment provided by engineer. */
+"You have successfully shared your post on twitter." = "You have successfully shared your post on twitter.";
+
+/* No comment provided by engineer. */
+"Share Goal" = "Share Goal";
+
+/* No comment provided by engineer. */
+"Goal Amount" = "Goal Amount";
+
+/* No comment provided by engineer. */
+"Target Date" = "Target Date";
+
+/* No comment provided by engineer. */
+"Goal Progress" = "Goal Progress";
+
+/* No comment provided by engineer. */
+"WHAT INFORMATION DO YOU WANT TO SHARE" = "WHAT INFORMATION DO YOU WANT TO SHARE";
+
+/* No comment provided by engineer. */
+"SHARE GOAL" = "SHARE GOAL";
+
+/* No comment provided by engineer. */
+"Please login to your facebook account from moneybox settings screen." = "Please login to your facebook account from moneybox settings screen.";
+
+/* No comment provided by engineer. */
+"Please login to your twitter account from moneybox settings screen." = "Please login to your twitter account from moneybox settings screen.";
+
+/* No comment provided by engineer. */
+"Add icon or photo" = "Add icon or photo";
+
+/* No comment provided by engineer. */
+"Do you want to share this goal information?" = "Do you want to share this goal information?";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"of total goal amount" = "of total goal amount";
+
+/* No comment provided by engineer. */
+"I have a savings goal" = "I have a savings goal";
+
+/* No comment provided by engineer. */
+"in Money Box" = "in Money Box";
+
+/* No comment provided by engineer. */
+"MORE FROM US" = "MORE FROM US";
+
+/* No comment provided by engineer. */
+"FEEDBACK" = "FEEDBACK";
+
+/* No comment provided by engineer. */
+"Money Box Protected" = "Money Box Protected";
+
+/* No comment provided by engineer. */
+"Please enter your passcode to unlock" = "Please enter your passcode to unlock";
+
+/* No comment provided by engineer. */
+"Enable Passcode Lock" = "Enable Passcode Lock";
+
+/* No comment provided by engineer. */
+"To enable the Passcode Lock please choose a 4-digit code" = "To enable the Passcode Lock please choose a 4-digit code";
+
+
+
+/* No comment provided by engineer. */
+"Please confirm your 4-digit code" = "Please confirm your 4-digit code";
+
+/* No comment provided by engineer. */
+"Change Passcode Lock" = "Change Passcode Lock";
+
+/* No comment provided by engineer. */
+"Please enter your previous 4-digit code" = "Please enter your previous 4-digit code";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"Clear" = "Clear";
+
+/* No comment provided by engineer. */
+"NOTIFICATION SETTING" = "NOTIFICATION SETTING";
+
+/* No comment provided by engineer. */
+"Show Money Box guide again" = "Show Money Box guide again";
+
+/* No comment provided by engineer. */
+"SECURITY SETTINGS" = "SECURITY SETTINGS";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"Passcode Lock" = "Passcode Lock";
+
+/* No comment provided by engineer. */
+"Change Pin" = "Change Pin";
+
+/* No comment provided by engineer. */
+"PRO" = "PRO";
+
+/* No comment provided by engineer. */
+"Passcode and Touch ID support" = "Passcode and Touch ID support";
+
+/* No comment provided by engineer. */
+"Click here to enable Notifications" = "Click here to enable Notifications";
+
+/* No comment provided by engineer. */
+"Notifications Are Enabled" = "Notifications Are Enabled";
+
+/* No comment provided by engineer. */
+"Please On passcode first" = "Please On passcode first";
+
+/* No comment provided by engineer. */
+"Please set passcode first" = "Please set passcode first";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
